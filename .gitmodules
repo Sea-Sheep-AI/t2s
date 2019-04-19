@@ -1,0 +1,3 @@
+[submodule "suffix-trees"]
+	path = suffix-trees
+	url = ./suffix-trees
